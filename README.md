@@ -1,6 +1,6 @@
 # Friend Hub - A Social Media Platform
 
-![Project Screenshot](https://raw.githubusercontent.com/JoyontoJoyXD/Friend-Hub-DjangoProject/main/Screenshot%201491.png)
+![Project Screenshot](https://github.com/JoyontoJoyXD/Friend-Hub-DjangoProject/blob/main/Screenshot%20(1491).png)
 
 
 ## Introduction
