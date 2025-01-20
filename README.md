@@ -1,6 +1,6 @@
 # Friend Hub - A Social Media Platform
 
-![Project Screenshot](https://github.com/yourusername/Friend-Hub/blob/main/Screenshot%201488.png)
+![Project Screenshot](https://github.com/yourusername/Friend-Hub/blob/main/Screenshot%201491.png)
 
 ## Introduction
 **Friend Hub** is a social media web application built with Django that allows users to create profiles, share posts, follow other users, and engage with their community. The platform provides a seamless user experience with features like user authentication, profile management, and media uploads.
