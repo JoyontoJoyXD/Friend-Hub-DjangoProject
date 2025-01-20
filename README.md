@@ -83,12 +83,12 @@ Friend-Hub/
 ```
 
 ## Screenshots
-![Signup Page](https://github.com/yourusername/Friend-Hub/blob/main/Screenshot%201489.png)
-![Login Page](https://github.com/yourusername/Friend-Hub/blob/main/Screenshot%201490.png)
-![User Profile](https://github.com/yourusername/Friend-Hub/blob/main/Screenshot%201491.png)
-![Search Feature](https://github.com/yourusername/Friend-Hub/blob/main/Screenshot%201492.png)
-![Home Feed](https://github.com/yourusername/Friend-Hub/blob/main/Screenshot%201493.png)
-![Settings Page](https://github.com/yourusername/Friend-Hub/blob/main/Screenshot%201494.png)
+![Signup Page](https://github.com/yourusername/Friend-Hub/blob/main/Screenshot%201491.png)
+![Login Page](https://github.com/yourusername/Friend-Hub/blob/main/Screenshot%201492.png)
+![User Profile](https://github.com/yourusername/Friend-Hub/blob/main/Screenshot%201488.png)
+![Search Feature](https://github.com/yourusername/Friend-Hub/blob/main/Screenshot%201494.png)
+![Home Feed](https://github.com/yourusername/Friend-Hub/blob/main/Screenshot%201490.png)
+![Settings Page](https://github.com/yourusername/Friend-Hub/blob/main/Screenshot%201493.png)
 
 ## Future Enhancements
 - Implement direct messaging between users.
