@@ -1,5 +1,10 @@
 # Friend Hub - A Social Media Platform
 
+## Contributors
+- **Joyonto Das**  
+- **Jannatul Ferdus Shuchona**  
+- **Jarin Tasnim Antara**
+
 ![Project Screenshot](https://github.com/JoyontoJoyXD/Friend-Hub-DjangoProject/blob/main/Screenshot%20(1491).png)
 
 
@@ -96,11 +101,6 @@ Friend-Hub/
 - Add notifications for new followers and likes.
 - Improve UI/UX with better design elements.
 - Deploy the application to a cloud platform.
-
-## Contributors
-- **Joyonto Das**  
-- **Jannatul Ferdus Shuchona**  
-- **Jarin Tasnim Antara**
 
 
 ## Contact
