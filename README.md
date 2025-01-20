@@ -1,6 +1,6 @@
 # Friend Hub - A Social Media Platform
 
-![Project Screenshot](https://github.com/yourusername/Friend-Hub/blob/main/Screenshot%201491.png)
+![Project Screenshot](https://github.com/JoyontoJoyXD/Friend-Hub-DjangoProject/blob/main/Screenshot%201491.png)
 
 ## Introduction
 **Friend Hub** is a social media web application built with Django that allows users to create profiles, share posts, follow other users, and engage with their community. The platform provides a seamless user experience with features like user authentication, profile management, and media uploads.
@@ -83,12 +83,12 @@ Friend-Hub/
 ```
 
 ## Screenshots
-![Signup Page](https://github.com/yourusername/Friend-Hub/blob/main/Screenshot%201491.png)
-![Login Page](https://github.com/yourusername/Friend-Hub/blob/main/Screenshot%201492.png)
-![User Profile](https://github.com/yourusername/Friend-Hub/blob/main/Screenshot%201488.png)
-![Search Feature](https://github.com/yourusername/Friend-Hub/blob/main/Screenshot%201494.png)
-![Home Feed](https://github.com/yourusername/Friend-Hub/blob/main/Screenshot%201490.png)
-![Settings Page](https://github.com/yourusername/Friend-Hub/blob/main/Screenshot%201493.png)
+![Signup Page](https://github.com/JoyontoJoyXD/Friend-Hub-DjangoProject/blob/main/Screenshot%201491.png)
+![Login Page](https://github.com/JoyontoJoyXD/Friend-Hub-DjangoProject/blob/main/Screenshot%201492.png)
+![User Profile](https://github.com/JoyontoJoyXD/Friend-Hub-DjangoProject/blob/main/Screenshot%201488.png)
+![Search Feature](https://github.com/JoyontoJoyXD/Friend-Hub-DjangoProject/blob/main/Screenshot%201494.png)
+![Home Feed](https://github.com/JoyontoJoyXD/Friend-Hub-DjangoProject/blob/main/Screenshot%201490.png)
+![Settings Page](https://github.com/JoyontoJoyXD/Friend-Hub-DjangoProject/blob/main/Screenshot%201493.png)
 
 ## Future Enhancements
 - Implement direct messaging between users.
