@@ -84,12 +84,12 @@ Friend-Hub/
 ```
 
 ## Screenshots
-![Signup Page](https://github.com/JoyontoJoyXD/Friend-Hub-DjangoProject/blob/main/Screenshot%201491.png)
-![Login Page](https://github.com/JoyontoJoyXD/Friend-Hub-DjangoProject/blob/main/Screenshot%201492.png)
-![User Profile](https://github.com/JoyontoJoyXD/Friend-Hub-DjangoProject/blob/main/Screenshot%201488.png)
-![Search Feature](https://github.com/JoyontoJoyXD/Friend-Hub-DjangoProject/blob/main/Screenshot%201494.png)
-![Home Feed](https://github.com/JoyontoJoyXD/Friend-Hub-DjangoProject/blob/main/Screenshot%201490.png)
-![Settings Page](https://github.com/JoyontoJoyXD/Friend-Hub-DjangoProject/blob/main/Screenshot%201493.png)
+![Signup Page](https://github.com/JoyontoJoyXD/Friend-Hub-DjangoProject/blob/main/Screenshot%20(1491).png)
+![Login Page](https://github.com/JoyontoJoyXD/Friend-Hub-DjangoProject/blob/main/Screenshot%20(1492).png)
+![User Profile](https://github.com/JoyontoJoyXD/Friend-Hub-DjangoProject/blob/main/Screenshot%20(1488).png)
+![Search Feature](https://github.com/JoyontoJoyXD/Friend-Hub-DjangoProject/blob/main/Screenshot%20(1494).png)
+![Home Feed](https://github.com/JoyontoJoyXD/Friend-Hub-DjangoProject/blob/main/Screenshot%20(1490).png)
+![Settings Page](https://github.com/JoyontoJoyXD/Friend-Hub-DjangoProject/blob/main/Screenshot%20(1493).png)
 
 ## Future Enhancements
 - Implement direct messaging between users.
